@@ -4,7 +4,7 @@ Source Code for Final Year project work
 # [Java Source Code](https://github.com/sandyjswl/final-year-project/tree/master/Java)
 
 
-# [Python Source Code](/Python)
+# [Python Source Code](https://github.com/sandyjswl/final-year-project/tree/master/Python)
 
 
 
