@@ -7,7 +7,7 @@ Output
 
 # SHA256
 Output
-![SHA256](/screenshots/sha2.png?raw=true "SHA256 Output")
+![SHA256](/screenshots/sha-2.png?raw=true "SHA256 Output")
 
 # SHA512
 Output
@@ -15,4 +15,4 @@ Output
 
 # MD5
 Output
-![MD5](/screenshots/MD5.png?raw=true "MD5 Output")
+![MD5](/screenshots/md5.png?raw=true "MD5 Output")
