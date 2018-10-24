@@ -15,3 +15,11 @@ Output
 # MD5
 Output
 ![MD5](/screenshots/md5_java.png?raw=true "MD5 Output")
+
+
+# Command to Run junit tests
+
+javac -cp .:junit-4.12.jar:hamcrest-core-1.3.jar (filename.java)
+
+java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore (filename)
+
